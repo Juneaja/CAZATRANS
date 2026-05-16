@@ -1,0 +1,8 @@
+{
+  "name": "RentalNota",
+  "description": "A professional car rental invoice and receipt generator with customizable renter details, branding, and print-ready layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
